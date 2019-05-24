@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a recent graduate from University of Toronto. I have completed my degree in M.Eng. Information Engineering, from department of mechanical and industrial engineering (MIE). I am currently looking for a job as entry/junior level in either Data Scientist (first priority) or Software Engineer. Since I am switching career from Mechanical Engineering to Software/Information Engineering, I am also open to any internship opportunities. The sole purpose of this blog is to learn new thing (here, specifically, Jekyll) and showcase my pst projects (both academic and private).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I hope to be more regular in uploading content on this blog. If you like my work, please follow me on [LinkedIN](https://www.linkedin.com/in/jay2jaykp/), [Twitter](https://twitter.com/jay2jaykp) and [GitHub](https://github.com/jay2jaykp).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Thank you!
