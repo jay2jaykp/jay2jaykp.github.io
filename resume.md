@@ -70,10 +70,20 @@ title: Resume
     - Trained with I/O workload traces of storage servers using Belady’s Optimal Algorithm
     - Achieved average accuracy of 89% with comparable results with existing static caching algorithms such as LIFO, LRU and LFU
 
-### [4] Management Consultant Project | Triumph Group Inc. (January 2017 - April 2017)
+#### [5] Ontology Engineering Project
+ - Title: "Engineering Ontology on State-Genealogy"
+ - Link:
+
+#### [4] Management Consultant Project | Triumph Group Inc. (January 2017 - April 2017)
  - Title: “Analysis of operator clock in/out data for manufacturing operations and identification of operators not following organization standards.”
  - Summary:
     - Coming soon.
+
+#### [5] UX/UI Project
+ - Title: "Popcorn, A second screen movie companion app"
+ - Link:
+
+
 
 
 
